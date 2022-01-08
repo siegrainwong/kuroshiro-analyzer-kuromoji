@@ -41,7 +41,7 @@
     },
     "homepage": "https://github.com/hexenq/kuroshiro-analyzer-kuromoji",
     "dependencies": {
-        "kuromoji": "^0.1.1"
+        "kuromoji": "https://github.com/siegrainwong/kuromoji.js.git"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
